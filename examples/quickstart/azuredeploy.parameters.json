@@ -27,10 +27,10 @@
       "value": true
     },
     "restrictedSrcAddressApp": {
-      "value": ""
+      "value": "50.4.34.138/32"
     },
     "restrictedSrcAddressMgmt": {
-      "value": ""
+      "value": "50.4.34.138/32"
     },
     "sshKey": {
       "value": ""
@@ -48,7 +48,7 @@
       "value": "https://github.com/Fenrir01/f5-azure-arm-templates-v2"
     },
     "uniqueString": {
-      "value": ""
+      "value": "F5LAB"
     },
     "useAvailabilityZones": {
       "value": false
